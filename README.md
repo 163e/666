@@ -1,6 +1,6 @@
 # GGbond的自我介绍
 
-<img src="https://gd-hbimg.huaban.com/f7cfaaf85f6af1a10c6f0536e7685a31ffcda1083b119-5ojatd_fw658webp"" width="200" alt="章鱼哥形象">
+<img src="[https://gd-hbimg.huaban.com/f7cfaaf85f6af1a10c6f0536e7685a31ffcda1083b119-5ojatd_fw658webp](https://github.com/163e/tup/blob/main/ggbond.jpg)"" width="200" alt="ggbond形象">
 
 大家好，我是**GGbond**，我的身份是*gcu的GGbond*。以下是我的自我介绍：
 
