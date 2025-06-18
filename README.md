@@ -1,6 +1,6 @@
 # GGbond的自我介绍
 
-<img src="[https://gd-hbimg.huaban.com/f7cfaaf85f6af1a10c6f0536e7685a31ffcda1083b119-5ojatd_fw658webp](https://github.com/163e/tup/blob/main/ggbond.jpg)"" width="200" alt="ggbond形象">
+<img src="https://raw.githubusercontent.com/163e/my-image-repo/main/ggbond.jpg" width="200" alt="ggbond形象">
 
 大家好，我是**GGbond**，我的身份是*gcu的GGbond*。以下是我的自我介绍：
 
@@ -46,8 +46,7 @@ print(np.array([1, 2, 3]) ** 2)
 <img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic1.jpg" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
-
+<img src="https://raw.githubusercontent.com/163e/my-image-repo/main/shijian1.jpg ">
 欧拉公式可以表示为 $e^{i\pi} + 1 = 0$，这是一个著名的等式。
 
 $$
